@@ -69,10 +69,10 @@ const aditya = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaMatrix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMatrix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="top langs"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaMatrix&theme=tokyonight&hide_border=true&background=0f0c29" alt="streak"/>
+<img src="https://img.shields.io/github/followers/AdityaMatrix?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" alt="followers"/>
+<img src="https://img.shields.io/badge/Public%20repos-36-24c6dc?style=for-the-badge&logo=github&labelColor=0f0c29" alt="repos"/>
+<img src="https://img.shields.io/github/commit-activity/y/AdityaMatrix/Professional-Drinks-Branding?style=for-the-badge&label=Commits%20(drinks%20app)&color=ff3d8b&labelColor=0f0c29" alt="commits"/>
+<img src="https://img.shields.io/github/last-commit/AdityaMatrix/Professional-Drinks-Branding?style=for-the-badge&label=Last%20commit&color=24c6dc&labelColor=0f0c29" alt="last commit"/>
 
 <img src="https://raw.githubusercontent.com/AdityaMatrix/AdityaMatrix/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" width="100%"/>
 
