@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24c6dc&text=Aditya%20Gupta&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Indulged%20in%20everything%20that%20can%20be%20created%20from%200s%20%26%201s&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<img src="assets/banner.svg" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=24C6DC&center=true&vCenter=true&width=640&lines=Full-stack+dev+%7C+React+%2B+FastAPI+%2B+TypeScript;Data+science+%26+ML+tinkerer;Robots+that+see%2C+dashboards+that+scale;Sci-Fi+nerd+%F0%9F%9A%80+based+in+Jaipur" alt="typing"/></a>
 
@@ -59,6 +59,12 @@ const aditya = {
 
 </details>
 
+### 🎮 Character sheet
+
+<div align="center">
+<img src="assets/stats-sheet.svg" width="760" alt="character sheet"/>
+</div>
+
 ### 📈 GitHub stats
 
 <div align="center">
@@ -68,7 +74,7 @@ const aditya = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaMatrix&theme=tokyonight&hide_border=true&background=0f0c29" alt="streak"/>
 
-<img src="https://raw.githubusercontent.com/AdityaMatrix/AdityaMatrix/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/AdityaMatrix/AdityaMatrix/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" width="100%"/>
 
 </div>
 
